@@ -43,3 +43,9 @@ Below is a breakdown of the key components of the project:
 
 ### Conclusion
 This Email Automation project demonstrates a powerful application of AI in streamlining email communications. By integrating the OpenAI GPT model, the bot efficiently manages email responses, making it a valuable tool for personal or business use. The project exemplifies best practices in Python scripting, API integration, and secure email handling.
+
+### Installation
+The program is ready to use. You only need to:
+1. Install the OpenAI library:
+   ```bash
+   pip install openai
